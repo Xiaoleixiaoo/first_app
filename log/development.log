@@ -1,0 +1,24 @@
+
+
+Started GET "/" for 192.168.233.1 at 2013-10-27 20:35:28 -0700
+Processing by Rails::WelcomeController#index as */*
+  Rendered /home/xiaolei/.rvm/gems/ruby-2.0.0-p0@railstutorial_rails_4_0/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (13.9ms)
+Completed 200 OK in 80ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 192.168.233.1 at 2013-10-27 20:35:38 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered /home/xiaolei/.rvm/gems/ruby-2.0.0-p0@railstutorial_rails_4_0/gems/railties-4.0.0/lib/rails/templates/rails/info/properties.html.erb (0.7ms)
+Completed 200 OK in 147ms (Views: 38.6ms | ActiveRecord: 88.8ms)
+
+
+Started GET "/" for 192.168.233.1 at 2013-10-27 20:39:36 -0700
+Processing by Rails::WelcomeController#index as */*
+  Rendered /home/xiaolei/.rvm/gems/ruby-2.0.0-p0@railstutorial_rails_4_0/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.233.1 at 2013-10-27 20:45:06 -0700
+Processing by Rails::WelcomeController#index as */*
+  Rendered /home/xiaolei/.rvm/gems/ruby-2.0.0-p0@railstutorial_rails_4_0/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
